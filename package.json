@@ -142,7 +142,7 @@
     "superagent": "^3.6.1",
     "text-ellipsis": "^1.0.3",
     "url-loader": "^0.5.7",
-    "url-parse": "^1.1.9",
+    "url-parse": "^1.5.0",
     "url-search-params-polyfill": "^2.0.0",
     "webpack": "^2.6.1",
     "webpack-node-externals": "^1.7.2",
